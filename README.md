@@ -6,8 +6,9 @@ Gephart Form
 Dependencies
 ---
  - PHP >= 7.0
- - gephart/sessions >= 0.3
+ - gephart/dependency-injection >= 0.2
  - gephart/event-manager >= 0.2
+ - gephart/sessions >= 0.3
 
 Instalation
 ---
