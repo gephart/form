@@ -14,7 +14,7 @@
   "require": {
     "php": ">=7.0",
     "gephart/sessions": "0.3.*",
-    "gephart/event-manager": "0.2.*",
+    "gephart/event-manager": "0.2.*"
   },
   "autoload": {
     "psr-4": { "Gephart\\Form\\": "src/" },
