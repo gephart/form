@@ -18,6 +18,7 @@ class RadioField extends AbstractField
 
     /**
      * @param array $options
+     * @return RadioField
      */
     public function setOptions(array $options)
     {
